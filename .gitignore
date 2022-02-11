@@ -131,3 +131,5 @@ dmypy.json
 spark_setup
 java_setup
 data
+
+.aws
