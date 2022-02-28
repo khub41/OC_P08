@@ -133,3 +133,5 @@ java_setup
 data
 
 .aws
+.ssh
+.idea
