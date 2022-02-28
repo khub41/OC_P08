@@ -125,6 +125,8 @@ venv.bak/
 .dmypy.json
 dmypy.json
 
+
+
 # Pyre type checker
 .pyre/
 
@@ -133,3 +135,5 @@ java_setup
 data
 
 .aws
+.ssh
+.idea
