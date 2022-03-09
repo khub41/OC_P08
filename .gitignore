@@ -130,6 +130,8 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+presentations
+
 spark_setup
 java_setup
 data
