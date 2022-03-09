@@ -125,8 +125,12 @@ venv.bak/
 .dmypy.json
 dmypy.json
 
+
+
 # Pyre type checker
 .pyre/
+
+presentations
 
 spark_setup
 java_setup
@@ -135,4 +139,4 @@ data
 .aws
 .ssh
 .idea
-presentations
+
